@@ -1,7 +1,7 @@
-v 0.0.0
-d 'ISOPOVERTY' 
+v 1.2
+d 'ISOPOVERTY': Stata module to generate data for Inequality-Poverty and Iso-Poverty curves
 d 
-d Distribution-Date: 
+d Distribution-Date: 30 April 2014
 d License: MIT
 d 
 F src/i/isopoverty.ado
